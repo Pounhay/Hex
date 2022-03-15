@@ -1,0 +1,90 @@
+﻿  Game.cpp
+D:\Visual Studio\Hex\Tile.h(111,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\Hex\Opponent.h(88,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(127,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(165,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(219,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(231,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(256,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(259,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(269,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(280,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(290,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(301,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(302,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(315,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(97,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(101,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(131,24): warning C4018: '<': signed/unsigned mismatch
+  GameState.cpp
+D:\Visual Studio\Hex\Tile.h(111,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\Hex\Opponent.h(88,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(127,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(165,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(219,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(231,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(256,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(259,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(269,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(280,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(290,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(301,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(302,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(315,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(97,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(101,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(131,24): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+D:\Visual Studio\Hex\Tile.h(111,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\Hex\Opponent.h(88,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(127,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(165,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(219,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(231,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(256,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(259,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(269,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(280,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(290,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(301,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(302,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(315,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(97,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(101,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(131,24): warning C4018: '<': signed/unsigned mismatch
+  StartState.cpp
+D:\Visual Studio\Hex\Tile.h(111,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\Hex\Opponent.h(88,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(109,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(127,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(153,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(165,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(219,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(231,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(256,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(259,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(269,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(280,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(290,24): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(301,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(302,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Opponent.h(315,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(97,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(101,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(115,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(119,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio\Hex\Board.h(131,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Hex.vcxproj -> D:\Visual Studio\Hex\Debug\Hex.exe
